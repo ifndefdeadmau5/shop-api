@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "sungmin@gmail.com",
+      "password": "admin"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "고구마 스틱",
+      "price": "1200",
+      "imgUrl": "https://lh3.googleusercontent.com/proxy/7Vg0UPywW-3RGPRvF8M383Hf9LGufar-9aVnCwRyJ5hOceU7vYb1cmKvMaiFj8a2EkYVa9wfCSaF3GdsHCHW_iBveQddl00qZAaa4AcSIXDIaYxHf-n6ZLB1tXpO6J6HO9-bmC85o0Hz1HKIN0athbB8pHBVeXw6sQkzAtNL"
+    },
+    {
+      "id": "2",
+      "name": "닭가슴살",
+      "price": "1900",
+      "imgUrl": "https://pds.joins.com//news/component/htmlphoto_mmdata/201805/25/e78dd775-bd87-4193-b764-ad3db70a9a4c.jpg"
+    },
+    {
+      "name": "건면",
+      "price": "800",
+      "imgUrl": "https://pds.joins.com/news/component/htmlphoto_mmdata/201902/07/bdedb4e7-a387-49bd-8a5e-e14747ffa5a4.jpg",
+      "id": "faad239c-1205-47a9-8448-c6f960e0f10e"
+    },
+    {
+      "name": "감자 샐러드",
+      "price": "3000",
+      "imgUrl": "https://fitpeople.co.kr/wp-content/uploads/2018/11/olivier-salad-768x472-e1543447485685.jpg",
+      "id": "44f1ee88-b79b-4e60-b950-1fea1028f6bc"
+    }
+  ]
+}
